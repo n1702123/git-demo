@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx @marp-team/marp-cli git教學.md --pptx -o git教學.pptx)",
+      "Bash(npx @marp-team/marp-cli git教學.md --html -o git教學.html)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git reset *)",
+      "Bash(git revert *)",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}
